@@ -12,5 +12,5 @@
 <a href="https://medium.com/@erikritter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@erikritter" height="30" width="40" /></a>
 </p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=etr2460&show_icons=true&locale=en" alt="etr2460" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=etr2460&show_icons=true&locale=en" alt="etr2460" /></p>
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=etr2460&" alt="etr2460" /></p>
