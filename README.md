@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=etr2460&label=Profile%20views&color=0e75b6&style=flat-square" alt="etr2460" /> </p>
 
-🔭 I’m currently working on [Apache Superset](https://github.com/apache/superset) and [Web3-UI](https://github.com/Developer-DAO/web3-ui)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/erik_ritter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="erik_ritter" height="30" width="40" /></a>
